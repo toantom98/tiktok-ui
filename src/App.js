@@ -1,10 +1,4 @@
-
 function App() {
-
-  return (
-    <div style={{padding: 32}}>
-
-    </div>
-  )
+  return <div style={{ padding: 32 }}></div>;
 }
-export default App
+export default App;
